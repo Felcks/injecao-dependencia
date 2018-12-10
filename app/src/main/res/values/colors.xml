@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5c636d</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <!--color name="colorAccent">#4AAEC2</color -->
+    <color name="colorAccent">#009fa3</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="secundary_divider">#F8F8F8</color>
+    <color name="secundary_divider_foto">#E8E8E8</color>
+    <color name="colorSecundary">#808080</color>
+
+
+    <color name="fundo_logo_autenticacao">#ECECEC</color>
+    <color name="green">#00aa00</color>
+    <color name="bg_grey">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="accent">#44B8B5</color>
+    <color name="fundo_icone_camera_botoes">#008181</color>
+    <color name="red">#E00000</color>
+    <color name="yellow">#FFDD00</color>
+    <color name="roxo">#A349A4</color>
+    <color name="blue">#44B8B5</color>
+
+    <!-- CORES DAS OBRAS NO MAPS -->
+    <color name="obra_concluida">#43a047</color>
+    <color name="obra_planejada">#d84315</color>
+    <color name="obra_planejada_atraso">#d84315</color>
+    <color name="obra_andamento">#237a85</color>
+    <color name="obra_andamento_atraso">#237a85</color>
+    <color name="obra_pausada">#990000</color>
+    <color name="obra_pausada_atraso">#990000</color>
+
+
+    <color name="fundo_icone_cadastrar_infracao_menu_principal">@color/colorAccent</color>
+    <color name="fundo_cabecalho">@color/colorAccent</color>
+
+    <!-- CORES DAS MEDIÇÕES -->
+    <color name="refuse">#D80027</color>
+    <color name="accept">#469E08</color>
+    <color name="edit">#FFCC33</color>
+    <color name="neutral">#BDBDBD</color>
+
+
+</resources>

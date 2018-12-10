@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">InjecaoDependencia</string>
+
+    <string name="login">Login</string>
+    <string name="password">Senha</string>
+    <string name="authenticate">Autenticar</string>
+    <string name="title_activity_login">SIGELU Contratos - Login</string>
+
+    <!-- Map Activity -->
+    <string name="title_activity_map">SIGELU Contratos</string>
+    <string name="list_constructions">Lista de Contratos</string>
+    <string name="map_activity_title">Mapa</string>
+    <string name="distance">Distância: </string>
+    <string name="last_review">Último Levantamento: </string>
+    <string name="local_multi">Local:</string>
+    <string name="conclusion_prediction">Conclusão Prevista: </string>
+    <string name="logout">Sair</string>
+    <string name="close_app">Aperte de novo para fechar</string>
+
+    <!-- General Fragment -->
+    <string name="hired_company">Empresa Contratada: </string>
+    <string name="contract_object">Objeto do Contrato: </string>
+    <string name="supervisors">Fiscais: </string>
+    <string name="situation">Situação: </string>
+    <string name="neighborhood">Bairro: </string>
+    <string name="local">Local: </string>
+    <string name="local_ref">Local de Referência: </string>
+
+    <!-- Info Fragment -->
+    <string name="start_date">Data de início: </string>
+    <string name="end_date">Data de conclusão: </string>
+    <string name="contract_value">Valor do Contrato: </string>
+    <string name="total_measured">Total Medido: </string>
+    <string name="balance_to_be_measured">Saldo a medir: </string>
+    <string name="total_approved">Total aprovado: </string>
+    <string name="remaining_balance_to_be_approved">Saldo a aprovar: </string>
+
+    <!-- Measurement Fragment -->
+    <string name="ok_dialog">Enviar</string>
+    <string name="cancel_dialog">Não</string>
+    <string name="title_dialog">Enviar Medição</string>
+    <string name="normal_text_dialog">Você terminou de analisar a medição, deseja enviá-la para a liberação?</string>
+    <string name="aprovar_medicao_text_dialog">Enviar essa medição como APROVADA?</string>
+    <string name="reprovar_medicao_text_dialog">Enviar essa medição como REPROVADA?</string>
+    <string name="impedir_envio_medicao_text_dialog">Não podemos enviar a medição. Faltam itens a serem avaliados.</string>
+    <string name="ok_dialogreprovar">Confirmar</string>
+    <string name="cancel_dialogreprovar">Cancelar</string>
+    <string name="normal_text_dialogreprovar">Deseja retornar o item para análise e excluir alterações?</string>
+
+    <!-- Schedule Activity -->
+    <string name="mounth_year">Mês/Ano</string>
+    <string name="value">Valor</string>
+    <string name="percent">%</string>
+
+    <!-- SubPhotoActivity -->
+    <string name="photo_saved">Foto salva com sucesso!</string>
+    <string name="photo_sent">Foto enviada com sucesso!</string>
+    <string name="external_dir">fotosSigelu</string>
+
+    <!-- FeedListAdapter -->
+    <string name="cant_comment">Não pode enviar comentário: foto não sincronizada.</string>
+
+    <!-- SubPhoto -->
+    <string name="title_activity_insert_photo">Adicionar Foto</string>
+</resources>

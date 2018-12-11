@@ -1,6 +1,4 @@
-package com.felcks.injecaodependencia.domain
-
-import java.util.*
+package com.felcks.injecaodependencia.common.domain.model
 
 data class Obra(val id: Int,
                 var situacao: String,

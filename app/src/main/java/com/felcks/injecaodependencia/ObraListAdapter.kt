@@ -9,8 +9,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.LinearLayout
 import android.widget.TextView
-import com.felcks.injecaodependencia.domain.Obra
-import java.util.*
+import com.felcks.injecaodependencia.common.domain.model.Obra
 
 class ObraListAdapter(val context: Context, val obras: List<Obra>) :
     RecyclerView.Adapter<ObraListAdapter.MyViewHolder>() {
